@@ -47,9 +47,9 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
 
-        viewModel.movieList.observe(this, Observer {
+        viewModel.liveList.observe(this, Observer {
             Log.d(TAG, "onCreate: $it")
-            adapter.setMovieList(it)
+            adapter.setLiveList(it)
         })
 
         viewModel.errorMessage.observe(this, Observer {
@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
 
-        viewModel.getAllMovies()
+        viewModel.getAllLives()
 
     }
 

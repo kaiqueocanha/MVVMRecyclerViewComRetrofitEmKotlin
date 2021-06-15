@@ -13,9 +13,9 @@ class MainAdapter(private val onItemClicked: (Live) -> Unit) : RecyclerView.Adap
 
     private var lives = mutableListOf<Live>()
 
-    fun setMovieList(movies: List<Live>) {
+    fun setLiveList(lives: List<Live>) {
 
-        this.lives = movies.toMutableList()
+        this.lives = lives.toMutableList()
         notifyDataSetChanged()
     }
 

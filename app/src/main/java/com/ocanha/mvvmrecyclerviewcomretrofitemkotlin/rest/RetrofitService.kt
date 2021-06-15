@@ -9,7 +9,7 @@ import retrofit2.http.GET
 interface RetrofitService {
 
     @GET("lista-lives.json")
-    fun getAllMovies(): Call<List<Live>>
+    fun getAllLives(): Call<List<Live>>
 
     companion object {
 
