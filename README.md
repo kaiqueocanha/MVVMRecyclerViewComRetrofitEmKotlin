@@ -1,10 +1,10 @@
-![LIVE #010 - Room Database: Introdução a Persistência de Dados com Kotlin localmente](http://i3.ytimg.com/vi/JQ_isBkRWzc/maxresdefault.jpg "LIVE #010 - Room Database: Introdução a Persistência de Dados com Kotlin localmente")
+![Introdução a Arquitetura MVVM no Android com Kotlin](https://i3.ytimg.com/vi/Gf5VEBQQzrk/maxresdefault.jpg "Introdução a Arquitetura MVVM no Android com Kotlin")
 
-# LIVE #010 - Room Database: Introdução a Persistência de Dados com Kotlin localmente
+# LIVE #008 - Introdução a Arquitetura MVVM no Android com Kotlin
 
-Código fonte do projeto criado na live #010, ensinando como utilizar a arquitetura MVVM no Android com Kotlin, LiveData, Retrofit e Glide.
+Código fonte do projeto criado na live #008, ensinando como utilizar a arquitetura MVVM no Android com Kotlin, LiveData, Retrofit e Glide.
 
-**Para assitir a AULA 1 COMPLETA, [clique aqui](https://youtu.be/JQ_isBkRWzc)**
+**Para assitir a AULA COMPLETA, [clique aqui](https://youtu.be/Gf5VEBQQzrk)**
 
 Não esqueça de deixar sua estrela no repositório se esse código te ajudou!
 
